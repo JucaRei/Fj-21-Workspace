@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sat Nov 04 15:54:11 BRST 2017
+org.eclipse.jst.jee.server\:/binary\:/home/web6957/Documents/WorkSpace\ Caelum/fj21-tarefas/WebContent/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar=/home/web6957/Documents/apache-tomcat-7.0.47/wtpwebapps/fj21-tarefas/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar
+org.eclipse.jst.jee.server\:fj21-tarefas=/home/web6957/Documents/apache-tomcat-7.0.47/wtpwebapps/fj21-tarefas
+org.eclipse.jst.jee.server\:fj21-agenda=/home/web6957/Documents/apache-tomcat-7.0.47/wtpwebapps/fj21-agenda
