@@ -10,7 +10,7 @@ public class ConnectionFactory {
 		try{
 			return DriverManager.getConnection("jdbc:mysql://localhost/fj21"
 				,/*login:*/"root"
-				,/*senha:*/"caelum");
+				,/*senha:*/"root");
 		}catch(SQLException e){
 			throw new RuntimeException(e);
 		}
